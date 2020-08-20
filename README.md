@@ -20,7 +20,7 @@ Hi, I'm Pepe (he/him)—a senior full stack developer and chess player.  I live 
 ## GitHub Stats
 
 <a href="https://github.com/pepellou/pepellou">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepellou&title_color=ffffff&text_color=cccccc&icon_color=2bbc8a&bg_color=444444" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepellou&layout=compact&title_color=ffffff&text_color=cccccc&icon_color=2bbc8a&bg_color=444444" />
 </a>
 <a href="https://github.com/pepellou/pepellou">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pepellou&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=cccccc&icon_color=2bbc8a&bg_color=444444" alt="Pepe's GitHub Stats" />

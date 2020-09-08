@@ -1,18 +1,13 @@
 # Pepe Doval
 
+[Download a PDF version of my CV](https://github.com/pepellou/pepellou/raw/master/cv.pdf)
+
 Full Stack Senior Developer
 
  - [github](https://github.com/pepellou)
  - [twitter](https://twitter.com/pepellou)
-
-Contact me:
-```
-    Milladoiro, 15895 (Spain)
-    +34 650 795 886
-    pepellou@gmail.com
-```
-
-[Download a PDF version](https://github.com/pepellou/pepellou/raw/master/cv.pdf)
+ - [pepellou@gmail.com](mailto:pepellou@gmail.com)
+ - phone: +34 650 795 886
 
 
 ## Work History

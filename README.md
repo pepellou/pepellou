@@ -55,6 +55,7 @@ Hi, I'm Pepe (he/him)—a senior full stack developer and chess player.  I live 
 </a>
 
 ## Get in touch
+- See [my CV](https://github.com/pepellou/pepellou/blob/master/cv.md)
 - Twitter: https://twitter.com/pepellou
 - Pictures of Fito 🐶: https://instagram.com/pepellou
 

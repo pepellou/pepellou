@@ -5,11 +5,14 @@ Full Stack Senior Developer
  - [github](https://github.com/pepellou)
  - [twitter](https://twitter.com/pepellou)
 
+Contact me:
 ```
     Milladoiro, 15895 (Spain)
     +34 650 795 886
     pepellou@gmail.com
 ```
+
+[Download a PDF version](https://github.com/pepellou/pepellou/raw/master/cv.pdf)
 
 
 ## Work History

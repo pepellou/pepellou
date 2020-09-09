@@ -1,8 +1,18 @@
-# Pepe Doval
-
 [Download a PDF version of my CV](https://github.com/pepellou/pepellou/raw/master/cv.pdf)
 
-Full Stack Senior Developer
+# Table of Contents
+
+1. [Contact Info](#contact-info)
+2. [Work History](#work-history)
+3. [Education](#education)
+4. [Awards](#awards)
+5. [Languages](#languages)
+6. [Interests](#interests)
+
+
+## Contact Info
+
+Pepe Doval | Full Stack Senior Developer
 
  - [github](https://github.com/pepellou)
  - [twitter](https://twitter.com/pepellou)
@@ -11,6 +21,11 @@ Full Stack Senior Developer
 
 
 ## Work History
+
+### Currently
+
+Looking for a job. Contact me :-)
+
 
 ### Feb 2018 - Jul 2020
 

@@ -68,7 +68,7 @@ debates, etc).
 Joomla, MongoDB, MySQL, Postgres, bootstrap, ...
 
 
-## Nov 2011 - Feb 2013
+### Nov 2011 - Feb 2013
 
 Founder and Software Sculptor
 Hermanos Karapatrov, Santiago de Compostela
@@ -81,7 +81,7 @@ also contributed to the creative processes and organizational workflow.
 **Technologies:** php, javascript, C++, OpenGL, OpenCV, MySQL, ...
 
 
-## Oct 2008 - Jan 2010
+### Oct 2008 - Jan 2010
 
 Head of IT Department
 Trabeculae E.B.T., Ourense

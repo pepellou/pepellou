@@ -12,7 +12,8 @@
 
 ## Contact Info
 
-Pepe Doval | Full Stack Senior Developer
+Pepe Doval<br/>
+Full Stack Senior Developer
 
  - [github](https://github.com/pepellou)
  - [twitter](https://twitter.com/pepellou)
@@ -29,7 +30,7 @@ Looking for a job. Contact me :-)
 
 ### Feb 2018 - Jul 2020
 
-Full Stack Senior Developer
+Full Stack Senior Developer<br/>
 NoLegalTech, Remote
 
 NoLegalTech is a Legaltech agency specialized in both offering legal solutions for 
@@ -42,7 +43,7 @@ code, speaking at public talks, growing teams, organizing workflows, organizing 
 
 ### Sep 2018 - Jul 2020
 
-Chess Instructor
+Chess Instructor<br/>
 Escola de Xadrez Millarengo Cultura, Milladoiro
 
 I worked as a Chess Instructor for the chess club, doing lessons from Monday to Friday
@@ -53,7 +54,7 @@ years with a number of competition successes.
 
 ### Nov 2014 - Dec 2017
 
-Full Stack Senior Developer
+Full Stack Senior Developer<br/>
 SetPay, Santiago de Compostela
 
 SetPay was a Fintech company developing technology for low-cost credit card readers
@@ -68,7 +69,7 @@ Scrum Master in the team.
 
 ### Mar 2010 - Oct 2014
 
-CEO/Founder
+CEO/Founder<br/>
 Agil-AZ S.L., Santiago de Compostela
 
 I was one of the Lead Developers at this software craftsmanship startup company.
@@ -85,7 +86,7 @@ Joomla, MongoDB, MySQL, Postgres, bootstrap, ...
 
 ### Nov 2011 - Feb 2013
 
-Founder and Software Sculptor
+Founder and Software Sculptor<br/>
 Hermanos Karapatrov, Santiago de Compostela
 
 Hermanos Karapatrov was a small (10 people) media agency devoted to crafting
@@ -98,7 +99,7 @@ also contributed to the creative processes and organizational workflow.
 
 ### Oct 2008 - Jan 2010
 
-Head of IT Department
+Head of IT Department<br/>
 Trabeculae E.B.T., Ourense
 
 As the head of the IT Department I had strategical responsibilities, but I devoted
@@ -111,17 +112,17 @@ most of my time to developing 3D, image processing, and medical software.
 
 ### Sep 2004 - Sep 2007
 
-Master: Computer Science and Programming
+Master: Computer Science and Programming<br/>
 University of Vigo, Ourense
 
 ### Sep 2005 - Sep 2006
 
-Curso de Aptitud Pedagógica (Pedagogy Skills Training)
+Curso de Aptitud Pedagógica (Pedagogy Skills Training)<br/>
 University of Vigo, Ourense
 
 ### Sep 2001 - Sep 2004
 
-Bachelor: Computer Science and Programming
+Bachelor: Computer Science and Programming<br/>
 University of Vigo, Ourense
 
 

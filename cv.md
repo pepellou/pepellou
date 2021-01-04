@@ -23,9 +23,17 @@ Full Stack Senior Developer
 
 ## Work History
 
-### Currently
+### Nov 2020 - present
 
-Looking for a job. Contact me :-)
+**Full Stack Senior Developer**<br/>
+Chessable, Remote
+
+**Chessable**'s mission is to make learning chess as easy and efficient as possible.
+Our team consists of scientists, developers, thinkers and chess masters who work together to optimise your experience.
+We digest the science so that you don't have to.
+
+    "A tool that can help players at different levels improve their chess games in an effective way"
+    - GM Magnus Carlsen, World Chess Champion
 
 
 ### Feb 2018 - Jul 2020

@@ -39,7 +39,7 @@ Hi, I'm Pepe (he/him)—a senior full stack developer and chess player.  I live 
 
 ## My passions (other than coding)
 
-♔ Chess<br>
+♔♛ Chess<br>
 🈚️ Languages<br>
 🔬 Science<br>
 📚 Teaching<br>

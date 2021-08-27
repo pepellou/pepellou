@@ -1,4 +1,4 @@
-[Download a PDF version of my CV](https://github.com/pepellou/pepellou/raw/master/cv.pdf)
+[Download a PDF version of my CV (outdated)](https://github.com/pepellou/pepellou/raw/master/cv.pdf)
 
 # Table of Contents
 

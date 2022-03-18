@@ -73,6 +73,7 @@ Apart from [streaming](https://twitch.tv/pepellou) and sporadically contributing
 
 ### Prototypes on a very early stage
 
+ - [Spanish is Hard, book](https://github.com/pepellou/SpanishIsHard): book to help Spanish learners overcome the common obstacles
  - [convertit](https://github.com/pepellou/convertit): API to convert all kinds of things easily
  - [far2near](https://github.com/pepellou/far2near): Connecting the world a tiny bit more
 

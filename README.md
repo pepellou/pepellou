@@ -58,7 +58,6 @@ Hi, I'm Pepe (he/him)—a senior full stack developer and chess player.  I live 
 - See [my CV](https://github.com/pepellou/pepellou/blob/master/cv.md)
 - Twitter: https://twitter.com/pepellou
 - Pictures of Fito 🐶: https://instagram.com/pepellou
-- Chat with me on channel **##pepellou** at [LiberaChat](https://libera.chat/) (if I'm using my computer I'm there)
 
 ## Things I'm working on
 

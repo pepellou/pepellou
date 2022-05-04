@@ -104,6 +104,4 @@ Apart from [streaming](https://twitch.tv/pepellou) and sporadically contributing
  - [obscura](https://github.com/boxuk/obscura) - Object-oriented wrapper for the PHP GD image library
  - [joomla-cms](https://github.com/joomla/joomla-cms) - Joomla!, the Content Management System (CMS)
 
-<a href="https://www.buymeacoffee.com/pepellou" target="_blank">
-    <img src="https://github.com/pepellou/pepellou/raw/master/buy_me_a_coffee.png" alt="Buy Me A Coffee">
-</a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S1AY28K)

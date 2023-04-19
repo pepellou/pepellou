@@ -58,15 +58,15 @@ When I'm not coding, I'm either [teaching](https://eaganchess.com/) or [streamin
 
 ## Get in touch
 - See [my CV](https://github.com/pepellou/pepellou/blob/master/cv.md)
-- Twitter: https://twitter.com/pepellou
+- Play me: https://www.chess.com/member/pepe_chessable
 - Pictures of Fito 🐶: https://instagram.com/pepellou
 - Watch me on twitch: https://www.twitch.tv/pepellou
-- Play me on lichess: https://lichess.org/@/pepellou
 - Hire me as a chess coach: https://eaganchess.com/courses/
+- Twitter: https://twitter.com/pepellou
 
 ## Things I'm working on
 
-Apart from [streaming](https://twitch.tv/pepellou), [teaching](https://eaganchess.com/) and sporadically contributing to [lila](https://github.com/lichess-org/lila) and [pychess-variants](https://github.com/gbtami/pychess-variants), I'm currently working on the following projects:
+Apart from [streaming](https://twitch.tv/pepellou), [teaching](https://eaganchess.com/) and sporadically contributing to [pychess-variants](https://github.com/gbtami/pychess-variants), I'm currently working on the following projects:
 
 ### Unpublished but coming soon
 
@@ -78,9 +78,8 @@ Apart from [streaming](https://twitch.tv/pepellou), [teaching](https://eaganches
 ### Prototypes on a very early stage
 
  - [Spanish is Hard, book](https://github.com/pepellou/SpanishIsHard): book to help Spanish learners overcome the common obstacles
- - [convertit](https://github.com/pepellou/convertit): API to convert all kinds of things easily
  - [far2near](https://github.com/pepellou/far2near): Connecting the world a tiny bit more
- - [lichess-widget-for-streamers](https://github.com/pepellou/lichess-widget-for-streamers): A browser widget to let streamers share some cool stuff when playing on lichess
+ - [convertit](https://github.com/pepellou/convertit): API to convert all kinds of things easily
 
 ### On-going maintained projects and repos
 

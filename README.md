@@ -58,7 +58,7 @@ When I'm not coding, I'm either [teaching](https://eaganchess.com/) or [streamin
 
 ## Get in touch
 - See [my CV](https://github.com/pepellou/pepellou/blob/master/cv.md)
-- Play me: https://www.chess.com/member/pepe_chessable
+- Play me: https://www.chess.com/member/pepe
 - Pictures of Fito 🐶: https://instagram.com/pepellou
 - Watch me on twitch: https://www.twitch.tv/pepellou
 - Hire me as a chess coach: https://eaganchess.com/courses/

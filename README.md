@@ -1,7 +1,7 @@
 # pepellou
-Hi, I'm Pepe (he/him)—a senior full stack developer and chess player.
-I live in Eagan, Minnesota.
-When I'm not coding, I'm either [teaching](https://eaganchess.com/) or [streaming chess on Twitch](https://twitch.tv/pepellou).
+Hi, I'm Pepe (he/him)—a senior full stack developer and chess player.<br>
+I live in St Paul, Minnesota.<br>
+When I'm not coding, I'm either [teaching](https://eaganchess.com/), [playing](https://www.chess.com/member/pepe) or [streaming chess on Twitch](https://twitch.tv/pepellou).
 
 ## My values
 
@@ -57,7 +57,7 @@ When I'm not coding, I'm either [teaching](https://eaganchess.com/) or [streamin
 </a>
 
 ## Get in touch
-- See [my CV](https://github.com/pepellou/pepellou/blob/master/cv.md)
+- See [my likely outdated CV](https://github.com/pepellou/pepellou/blob/master/cv.md)
 - Play me: https://www.chess.com/member/pepe
 - Pictures of Fito 🐶: https://instagram.com/pepellou
 - Watch me on twitch: https://www.twitch.tv/pepellou
@@ -84,11 +84,11 @@ Apart from [streaming](https://twitch.tv/pepellou), [teaching](https://eaganches
 ### On-going maintained projects and repos
 
  - [eaganchess.com](https://github.com/pepellou/eaganchess.com): Your chess academy in Eagan
- - [knowledge](https://github.com/pepellou/knowledge): my personal wiki where I share everything I know
+ - [knowledge](https://github.com/pepellou/knowledge): my personal wiki
  - [codewars](https://github.com/pepellou/codewars): Just my solutions to Codewars katas
  - [dotfiles](https://github.com/pepellou/dotfiles): My configuration files for -nix machines(Mac OS X, Linux)
- - [git-tricks](https://github.com/pepellou/git-tricks): my local .gitconfig file to share it with you, as well as some of my hooks
- - [vim-tricks](https://github.com/pepellou/vim-tricks): My local .vimrc file
+ - [git-tricks](https://github.com/pepellou/git-tricks): my local .gitconfig file, as well as some of my hooks
+ - [vim-tricks](https://github.com/pepellou/vim-tricks): my local .vimrc file
 
 ### Old projects (no longer maintained)
 
